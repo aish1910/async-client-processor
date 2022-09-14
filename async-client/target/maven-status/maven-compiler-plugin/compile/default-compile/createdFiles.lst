@@ -1,0 +1,6 @@
+com/lookup/client/model/Student.class
+com/lookup/client/model/ErrorResponse.class
+com/lookup/client/model/Response.class
+com/lookup/client/TestCompletableFuture.class
+com/lookup/client/StudentsClient.class
+com/lookup/client/TestParallelStream.class
